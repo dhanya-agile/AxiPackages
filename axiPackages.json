@@ -44,6 +44,21 @@
         "Package1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "Blank_Package1",
+      "Branch": "aximain",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-11T10:46:28Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Blank",
+        "Package1"
+      ],
+      "Category": "Enterprise"
     }
   ],
   "GitBranches": [
