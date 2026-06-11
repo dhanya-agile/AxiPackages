@@ -14,9 +14,25 @@
         "Package1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "ERP_Package1",
+      "Branch": "ERP",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-11T10:44:19Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "Package1"
+      ],
+      "Category": "Enterprise"
     }
   ],
   "GitBranches": [
-    "aximain"
+    "aximain",
+    "ERP"
   ]
 }
