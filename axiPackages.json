@@ -29,10 +29,26 @@
         "Package1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "free_Package1",
+      "Branch": "free",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-11T10:45:57Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "free",
+        "Package1"
+      ],
+      "Category": "Enterprise"
     }
   ],
   "GitBranches": [
     "aximain",
-    "ERP"
+    "ERP",
+    "free"
   ]
 }
